@@ -4,6 +4,14 @@
 
 NetScope is a compact Python command-line toolkit for network diagnostics and defensive security checks.
 
+## Preview
+
+![NetScope command overview](assets/screenshots/help.png)
+
+![NetScope TCP port scan output](assets/screenshots/scan.png)
+
+Screenshots by @wxwreak.
+
 ## Features
 
 - TCP port scanning and optional banner grabbing
